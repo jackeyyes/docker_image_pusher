@@ -1,1 +1,1 @@
-mysql:8.4.5
+--platform=linux/amd64 mysql:8.4.5
