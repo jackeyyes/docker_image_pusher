@@ -1,1 +1,3 @@
 --platform=linux/amd64 mysql:8.4.5
+--platform=linux/amd64 redis:latest
+--platform=linux/amd64 tomcat:9.0.104-jdk8-corretto-al2
