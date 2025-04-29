@@ -3,4 +3,4 @@
 --platform=linux/amd64 tomcat:9.0.104-jdk8-corretto-al2
 --platform=linux/amd64 tomcat:9.0.104-jre8
 --platform=linux/amd64 tomcat:9.0.62-jdk17-openjdk
---platform=linux/amd64 9.0.104-jdk8
+--platform=linux/amd64 tomcat:9.0.104-jdk8
